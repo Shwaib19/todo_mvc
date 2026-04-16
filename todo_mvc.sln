@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todo_mvc", "todo_mvc\todo_mvc.csproj", "{95C82242-34BA-448C-9148-43F15387B5C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Infrastruscture", "Todo.Infrastruscture\Todo.Infrastruscture.csproj", "{1F34E3BE-DA72-4208-842D-FA85B4D8EC67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{95C82242-34BA-448C-9148-43F15387B5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C82242-34BA-448C-9148-43F15387B5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C82242-34BA-448C-9148-43F15387B5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F34E3BE-DA72-4208-842D-FA85B4D8EC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F34E3BE-DA72-4208-842D-FA85B4D8EC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F34E3BE-DA72-4208-842D-FA85B4D8EC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F34E3BE-DA72-4208-842D-FA85B4D8EC67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
